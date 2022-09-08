@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Muhammad Haseeb Aslam
 
-## An Undergraduate, Python Engineer, Data Analyst, & Machine Learning Engineer!
+## An Undergraduate, Python Engineer, Data Scientist, & Machine Learning Engineer!
 
 - 🔭 Working on my Artificial Intelligence project!
 - 🌱 Learning R, GoLang, Machine Learning, Natural Language Processing, Computer Vision, Amazon and DevOps.
