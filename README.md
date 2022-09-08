@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## An Undergraduate, Python Engineer, Data Analyst, & Machine Learning Engineer!
 
-- 🔭 I’m currently working on my final year project!
-- 🌱 I’m currently learning R, GoLang, Machine Learning, Natural Language Processing, Computer Vision, and DevOps.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
+- 🔭 Working on my Artificial Intelligence project!
+- 🌱 Learning R, GoLang, Machine Learning, Natural Language Processing, Computer Vision, Amazon and DevOps.
+- 👯 Looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play Chess, Sequence, and Listen to music.
 
 ### 📫 How to Reach Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
